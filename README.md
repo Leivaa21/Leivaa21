@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/56723478/134770633-ade64a5f-62ad-41c0-8dfc-203f7420066b.png" alt="Hey!" width="150"/>
 
 > Hello World! I'm Leivaa. I'm from Cordoba, Andalusia, Spain </br>
-> Im currently stundying Software Engineering at the [**UCO**](https://uco.es) (**U**niversidad de **CO**rdoba)
+> I'm currently stundying Software Engineering at the [**UCO**](https://uco.es) (**U**niversidad de **CO**rdoba)
 > ### My SO's
 > ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 > ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -28,7 +28,7 @@
 > ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 > ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 > ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-> - I'm focused learning JavaScript and TypeScript and some libraries</br
+> - I'm focused on learning JavaScript and TypeScript and some libraries</br
 > - I learned C and C++ on the grade and currently touching some Java</br>
 > </br>
 > 
