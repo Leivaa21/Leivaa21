@@ -33,11 +33,14 @@
 > - I learned C and C++ on the grade and currently touching some Java</br>
 > </br>
 > 
-> ![Leivaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leivaa21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)
+> ![Leivaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leivaa21&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&langs_count=6)
 > 
 > ### My github stats
-> ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=Leivaa21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)
-> 
+> ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&theme=material-palenight&show_icons=true&hide_border=true)
+>
+> ### Featured repositories
+> [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true)](https://github.com/leivaa21/LeivaaDiscordJS)
+>
 > ### Contact Me
 > Email: adrianleivarojano21@gmail.com </br>
 > [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-leiva-rojano-02763b216/)
