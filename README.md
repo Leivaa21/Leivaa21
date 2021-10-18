@@ -33,15 +33,15 @@
 > - I learned C and C++ on the grade and currently touching some Java</br>
 > </br>
 > 
-> ![Leivaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leivaa21&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&langs_count=6)
+> ![Leivaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leivaa21&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff&layout=compact&langs_count=6)
 > 
 > ### My github stats
-> ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&theme=material-palenight&hide_border=true&&count_private=true)
+> ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&show_icons=true&theme=material-palenight&hide_border=true&hide=commits&title_color=ff3bff&icon_color=00ffff)
 >
->[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leivaa21&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leivaa21&hide_border=true&date_format=j%20M%5B%20Y%5D&background=292d3e&stroke=A8AECE&currStreakNum=00FFFF&ring=DE35E1&fire=00FFFF&sideNums=A8AECE&currStreakLabel=A8AECE&sideLabels=A8AECE&dates=A8AECE)](https://git.io/streak-stats)
 >
 > ### Featured repositories
-> [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true)](https://github.com/leivaa21/LeivaaDiscordJS)
+> [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/leivaa21/LeivaaDiscordJS)
 >
 > ### Contact Me
 > Email: adrianleivarojano21@gmail.com </br>
