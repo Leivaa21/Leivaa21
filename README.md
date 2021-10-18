@@ -38,6 +38,8 @@
 > ### My github stats
 > ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&theme=material-palenight&show_icons=true&hide_border=true&&count_private=true)
 >
+>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leivaa21&theme=material-palenight&show_icons=true&hide_border=true&&count_private=true)](https://git.io/streak-stats)
+>
 > ### Featured repositories
 > [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true)](https://github.com/leivaa21/LeivaaDiscordJS)
 >
