@@ -3,18 +3,30 @@
 <img src="https://user-images.githubusercontent.com/56723478/134770633-ade64a5f-62ad-41c0-8dfc-203f7420066b.png" alt="Hey!" width="150"/>
 
 > Hello World! I'm Leivaa. I'm from Cordoba, Andalusia, Spain </br>
-> I'm currently stundying Software Engineering at the [**UCO**](https://uco.es) (**U**niversidad de **CO**rdoba)
+
+> 
+> ###Actual Projects
+> 
+> - I'm currently studying Software Engineering at the [**UCO**](https://uco.es) (**U**niversidad de **CO**rdoba)
+> - Collaborating in [**Aula de Software Libre**](https://github.com/aulasoftwarelibre/)
+> - Working on Qyona's Earth Project (Comming Soon)
+
+> 
 > ### My SO's
+> 
 > ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 > ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+> 
 > ### About Coding
+> 
 > - Currently I'm focused on learning skills like TDD, DDD and Clean Code in general.
 > - I have projects about discord bot's in JavaScript, *currently working on a TypeScript solution*.
 > - I have more affinity to the BackEnd development but I'm willing to learn FrontEnd aswell
 > 
 > #### Coding Skills
+> 
 > ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 > ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,16 +47,20 @@
 > 
 > ![Leivaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leivaa21&hide_title=true&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff&layout=compact&langs_count=6)
 > 
-> ### My github stats
+> #### My github stats
+> 
 > ![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&show_icons=true&hide_title=true&theme=material-palenight&hide_border=true&hide=commits&title_color=ff3bff&icon_color=00ffff)
 >
->[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leivaa21&hide_border=true&date_format=j%20M%5B%20Y%5D&background=292d3e&stroke=A8AECE&currStreakNum=00FFFF&ring=DE35E1&fire=00FFFF&sideNums=A8AECE&currStreakLabel=A8AECE&sideLabels=A8AECE&dates=A8AECE)](https://git.io/streak-stats)
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leivaa21&hide_border=true&date_format=j%20M%5B%20Y%5D&background=292d3e&stroke=A8AECE&currStreakNum=00FFFF&ring=DE35E1&fire=00FFFF&sideNums=A8AECE&currStreakLabel=A8AECE&sideLabels=A8AECE&dates=A8AECE)](https://git.io/streak-stats)
 >
-> ### Featured repositories
+> #### Featured repositories
+> 
 > [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/leivaa21/LeivaaDiscordJS)
 > [![TallerNodeJS](https://github-readme-stats.vercel.app/api/pin/?username=aulasoftwarelibre&repo=taller-nodeJs&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/aulasoftwarelibre/taller-nodeJs)
->
+
+> 
 > ### Contact Me
+> 
 > Email: adrianleivarojano21@gmail.com </br>
 > [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-leiva-rojano-02763b216/)
 > [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leivaa21)
