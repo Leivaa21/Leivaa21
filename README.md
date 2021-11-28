@@ -56,7 +56,7 @@
 >
 > #### Featured repositories
 > 
-> [![LeivaaDiscordJS](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=LeivaaDiscordJS&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/leivaa21/LeivaaDiscordJS)
+> [![TypeScriptDiscordTemplate](https://github-readme-stats.vercel.app/api/pin/?username=leivaa21&repo=DiscordTS-Template&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/leivaa21/DiscordTS-Template)
 > [![TallerNodeJS](https://github-readme-stats.vercel.app/api/pin/?username=aulasoftwarelibre&repo=taller-nodeJs&theme=material-palenight&show_icons=true&hide_border=true&title_color=ff3bff&icon_color=00ffff)](https://github.com/aulasoftwarelibre/taller-nodeJs)
 
 > 
