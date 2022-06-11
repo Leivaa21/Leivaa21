@@ -8,46 +8,39 @@
 > 
 > - I'm currently studying Software Engineering at the [**UCO**](https://uco.es) (**U**niversidad de **CO**rdoba)
 > - Collaborating in [**Aula de Software Libre**](https://github.com/aulasoftwarelibre/)
-> - Working on NetMatch Project 🌐
-> - Working on Qyona's Earth Project (Comming Soon)
+>
 
 > 
-> ## My SO's
+> ## About Me
 > 
-> ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-> ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> - My life dream as a child was being an inventor. So I growed up to be a software developer focused on fulfilling real needs and bring good alternatives to people in a fully digitalized world.
+> - I also enjoy such things as **Gaming** and **Enduro** (I know, they're like sooo far away one from another haha)
+>
 
-> 
-> ## About Coding
-> 
-> - Currently focused on learning methodologies like DDD, Hexagonal Architecture and CQRS.
-> - My main programming language is typescript.
-> - I have more affinity to the BackEnd development, I have some knowledge in QA and working on my frontend skills
-> 
+>
 > ### Coding Skills
 > 
-> * Currently specialized in typescript (autodidact, courses and books).
-> * Knowledge on Java, C++ and C due to my degree.
-> * Databases knowledge in SQL and non-sql technologies (specialized in MongoDB).
-> * Always willing to learn new things, so this might be not 100% updated.
+> - Currently specialized in typescript backend development (autodidact, courses and books).
+> - Knowledge on Java, Python, C++ and C due to my degree.
+> - Learning Kotlin as autodidact
+> - Databases knowledge in SQL and non-sql technologies (Such as MongoDB, PostgreSQL, MySQL).
+> - DDD, TDD, CQRS, Microservices, CI/CD...
+> - Always willing to learn new things, so this might be not 100% updated.
+>
 > </br>
 >
 > > [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-> > [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+> > [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE)](https://www.python.org/)
 > > [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java)](https://dev.java/)
 > > [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 > > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-> > </br>
-> > [![ExpressJS](https://img.shields.io/badge/ExpressJS-green?style=for-the-badge&logo=express)](https://expressjs.com/)
-> > [![NestJS](https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
-> > [![NextJS](https://img.shields.io/badge/-Nextjs-blue?style=for-the-badge&logo=vercel)](https://nextjs.org/)
-> > [![Jest](https://img.shields.io/badge/jest-red?style=for-the-badge&logo=jest)](https://jestjs.io/)
 > > </br>
 > > [![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 > > [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 > > </br>
 > > [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 > > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+> > [![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
 >
 > </br>
 > 
