@@ -44,7 +44,7 @@ I define myself as a _learning enthusiast_, and I love to try new things and lea
 </br>
 Not a fullstack but always willing to know a bit more.
 </br>
-Specialized in **backend**, devops and QA.
+Specialized in **backend** and willing to learn more about devops and QA.
 </br>
 
 ---
