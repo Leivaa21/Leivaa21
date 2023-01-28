@@ -1,12 +1,13 @@
 <div align="center">
 
-## Adrián Leiva - "Leivaa"
+## Adrián Leiva ~ Leivaa 🌴
 
-  <img width="200px" src="https://i.imgur.com/XN1s9A9.png"/>
+  <img width="200px" src="./images/logo-vectorized.png"/>
   
   - Started Computer Science degree in 2019 in Cordoba, Spain.
   - Picked Software Engineering specialization in 2021.
   - Joined the [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) coordination team in november 2021
+  - Joined [Genially](https://genially.com) as Developer Trainee in october 2022  
 
 </div>
 
@@ -106,11 +107,11 @@ _(Checked = read)_
 
 - [x] Clean Code
 - [x] Clean Architecture
-- [ ] Clean Coder
+- [x] Clean Coder
 - [ ] The pragmatic programmer
 - [ ] Building Microservices
 - [ ] Implementing Domain-Driven Design
-- [ ] CQRS by Example
+- [x] CQRS by Example
 
 ---
 
