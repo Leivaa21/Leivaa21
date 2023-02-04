@@ -119,9 +119,11 @@ _(Checked = read)_
 
 <div align="center">
 
-[![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&show_icons=true&hide_title=true&theme=material-palenight&hide_border=true&hide=commits&title_color=ff3bff&icon_color=00ffff)](https:/github.com/leivaa21)
+[![Leivaa's Github Stats](https://github-readme-stats.vercel.app/api?username=leivaa21&show_icons=true&hide_title=true&hide_border=true&count_private=true&icon_color=1ED0E9&bg_color=27212E&text_color=DADADA&ring_color=E662B6)](https:/github.com/leivaa21)
+
 </br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leivaa21&hide_border=true&date_format=j%20M%5B%20Y%5D&background=292d3e&stroke=A8AECE&currStreakNum=00FFFF&ring=DE35E1&fire=00FFFF&sideNums=A8AECE&currStreakLabel=A8AECE&sideLabels=A8AECE&dates=A8AECE)](https:/github.com/leivaa21)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leivaa21&hide_border=true&date_format=j%20M%5B%20Y%5D&background=27212E&stroke=DADADA&currStreakNum=DADADA&ring=E662B6&fire=1ED0E9&sideNums=DADADA&currStreakLabel=DADADA&sideLabels=DADADA&dates=DADADA)](https:/github.com/leivaa21)
 
 </div>
 
