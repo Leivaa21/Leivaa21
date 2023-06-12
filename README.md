@@ -7,7 +7,8 @@
   - Started Computer Science degree in 2019 in Cordoba, Spain.
   - Picked Software Engineering specialization in 2021.
   - Joined the [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) coordination team in november 2021
-  - Joined [Genially](https://genially.com) as Developer Trainee in october 2022  
+  - Joined [Genially](https://genially.com) as Developer Trainee in october 2022
+  - Became Junior Backend Developer April 2023
 
 </div>
 
