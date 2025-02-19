@@ -132,8 +132,8 @@ _(Checked = read)_
 
 ## Contact me
 
-Email: adrianleivarojano21@gmail.com </br>
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-leiva-rojano-02763b216/)
+Email: adrianleivasoftware@gmail.com </br>
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianleivarojano/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leivaa21)
 [![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white).](https://twitter.com/Leivaa21_)
 
